@@ -20,4 +20,4 @@ This project is a front-end project as an application on what I studied in the l
 
 ## Demo
 
-https://yasin3015.github.io/AZ-Demo/
+https://engwalid404.github.io/Tech-Solution/
